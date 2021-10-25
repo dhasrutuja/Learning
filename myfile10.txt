@@ -1,8 +1,8 @@
-#include<stdio.h>
+#include<iostream.h>
 #include<conio.h>
-int main()
+void main()
 {
   clrscr();
-  printf("Hello");
+  cout<<"Hello I am rutuja";
   getch();
 }
