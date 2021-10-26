@@ -3,4 +3,5 @@
 void main()
 {
   printf("Rutuja Pratik Rohokale");
+  getch();
 }
