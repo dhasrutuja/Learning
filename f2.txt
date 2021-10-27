@@ -1,14 +1,7 @@
-#include<stdio.h>
-#include<conio.h>
-void main()
-{
-  int n;
-  clrscr();
-  printf("Enter no");
-  scanf("%d",&n);
-  if(n%2==0)
-    printf("Even");
-  else
-    printf("odd");
-  getch();
-}
+git branch
+git init
+ls
+git pull origin master
+git push origin master
+git add filename
+git commit -m "<msg>"
