@@ -14,5 +14,4 @@ void main()
   }
   str2[i]='\0';
   printf("copied string=%s",str);
-  getch();
 }
