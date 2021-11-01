@@ -1,0 +1,18 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+  char str1[30],str2[30];
+  clrscr();
+  printf("enter string");
+  gets(str1);
+  i=0;
+  while(str1[i]!='\0')
+  {
+    str2[i]=str1[i];
+    i++;
+  }
+  str2[i]='\0';
+  printf("copied string=%s",str);
+  getch();
+}
