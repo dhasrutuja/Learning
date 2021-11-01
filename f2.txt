@@ -1,7 +1,0 @@
-git branch
-git init
-ls
-git pull origin master
-git push origin master
-git add filename
-git commit -m "<msg>"
